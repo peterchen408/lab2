@@ -12,9 +12,17 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
-     padding: 20px;
+     border: 10px dotted red;
+     padding: 10px;
 }
+
+.project {
+    margin-left: 20px;
+}
+
+#project3, #project6, #project8 { 
+    font-variant: small-caps; 
+} 
 
 .jumbotron {
 	position: relative;
